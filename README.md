@@ -8,3 +8,6 @@ From the information, given from the .json file, the age of the specific movie s
 
 # output
 ![First-Task-Movie-Star](demo/output.png)
+
+# !!!
+The directory should be changed
